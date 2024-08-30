@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title></title>
+	<title>-</title>
 	<link rel="icon" type="png" href="icon1.png">
 	<style>
 		
@@ -12,6 +12,6 @@
 
 <body>
 	<div class="middle">
-		
+		<h1>-</h1>
 	</div>
 </body>
